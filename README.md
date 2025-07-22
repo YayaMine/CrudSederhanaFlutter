@@ -39,6 +39,8 @@ if (password.length < 6) {
 
 ```bash
     flutter run
+```
 
-    git clone https://github.com/YayaMine/CrudSederhanaFlutter.git
+```bash
+ git clone https://github.com/YayaMine/CrudSederhanaFlutter.git
 ```
