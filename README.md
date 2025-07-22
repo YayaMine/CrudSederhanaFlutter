@@ -41,6 +41,8 @@ if (password.length < 6) {
     flutter run
 ```
 
+## 🔐 Clone Project
+
 ```bash
  git clone https://github.com/YayaMine/CrudSederhanaFlutter.git
 ```
