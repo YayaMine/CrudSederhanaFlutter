@@ -36,3 +36,7 @@ if (password.length < 6) {
   return;
 }
 ```
+
+```bash
+    flutter run
+```
